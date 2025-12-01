@@ -12,6 +12,10 @@ Processamento automatizado de PDFs e imagens utilizando **Pytesseract**, formata
 ```bash
 pip install multiprocessing os tempfile ocrmypdf numpy cv2 Pillow pytesseract re pypdf unicodedata PyPDF2 pdf2image transformers traceback typing fitz rapidfuzz spacy datetime python-dateutil
 ```
+3. No terminal
+```bash
+python main.py
+```
 ⚙️ Funcionalidades
 1. Otimização de Tempo
 
